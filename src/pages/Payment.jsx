@@ -22,7 +22,7 @@ const Payment = () => {
        </p>
        <button className="flex items-center justify-center w-full mb-5 p-3 border border-black rounded-full bg-white shadow-md hover:shadow-lg transition">
          <FontAwesomeIcon icon={faCreditCard} className="h-5 w-5 mr-2" />
-         Add Card
+         Add
          <FontAwesomeIcon icon={faChevronRight} className="h-5 w-5 ml-auto" />
        </button>
        <button className="flex items-center justify-center w-full mb-5 p-3 border border-black rounded-full bg-white shadow-md hover:shadow-lg transition">
